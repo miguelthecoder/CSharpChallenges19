@@ -1,0 +1,11 @@
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/bin/Debug/netcoreapp2.0/ChallengeOneTL.deps.json
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/bin/Debug/netcoreapp2.0/ChallengeOneTL.runtimeconfig.json
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/bin/Debug/netcoreapp2.0/ChallengeOneTL.runtimeconfig.dev.json
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/bin/Debug/netcoreapp2.0/ChallengeOneTL.dll
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/bin/Debug/netcoreapp2.0/ChallengeOneTL.pdb
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/obj/Debug/netcoreapp2.0/ChallengeOneTL.csprojResolveAssemblyReference.cache
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/obj/Debug/netcoreapp2.0/ChallengeOneTL.csproj.CoreCompileInputs.cache
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/obj/Debug/netcoreapp2.0/ChallengeOneTL.AssemblyInfoInputs.cache
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/obj/Debug/netcoreapp2.0/ChallengeOneTL.AssemblyInfo.cs
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/obj/Debug/netcoreapp2.0/ChallengeOneTL.dll
+/Users/miguelrosas/Projects/ChallengeOneTL/ChallengeOneTL/obj/Debug/netcoreapp2.0/ChallengeOneTL.pdb

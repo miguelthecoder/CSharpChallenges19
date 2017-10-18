@@ -1,0 +1,4 @@
+/Users/miguelrosas/Projects/Challenge2FC/Challenge2FC/obj/Debug/netcoreapp2.0/Challenge2FC.csprojResolveAssemblyReference.cache
+/Users/miguelrosas/Projects/Challenge2FC/Challenge2FC/obj/Debug/netcoreapp2.0/Challenge2FC.csproj.CoreCompileInputs.cache
+/Users/miguelrosas/Projects/Challenge2FC/Challenge2FC/obj/Debug/netcoreapp2.0/Challenge2FC.AssemblyInfoInputs.cache
+/Users/miguelrosas/Projects/Challenge2FC/Challenge2FC/obj/Debug/netcoreapp2.0/Challenge2FC.AssemblyInfo.cs

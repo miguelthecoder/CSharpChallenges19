@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{13EEFF29-97F2-44DD-AA92-F7D031D6078F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Challenge2FC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Challenge2FC/Program.cs">
+    <Files>
+      <File FileName="Challenge2FC/Program.cs" Line="3" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

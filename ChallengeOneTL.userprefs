@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8B1AC352-EAF9-4CF6-B0AF-D001C9C6B9CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChallengeOneTL/Program.cs">
+    <Files>
+      <File FileName="ChallengeOneTL/Program.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChallengeOneTL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
