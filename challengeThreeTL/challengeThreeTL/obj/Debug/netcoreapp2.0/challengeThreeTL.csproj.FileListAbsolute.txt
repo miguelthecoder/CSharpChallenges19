@@ -1,0 +1,11 @@
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/bin/Debug/netcoreapp2.0/challengeThreeTL.deps.json
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/bin/Debug/netcoreapp2.0/challengeThreeTL.runtimeconfig.json
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/bin/Debug/netcoreapp2.0/challengeThreeTL.runtimeconfig.dev.json
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/bin/Debug/netcoreapp2.0/challengeThreeTL.dll
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/bin/Debug/netcoreapp2.0/challengeThreeTL.pdb
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/obj/Debug/netcoreapp2.0/challengeThreeTL.csprojResolveAssemblyReference.cache
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/obj/Debug/netcoreapp2.0/challengeThreeTL.csproj.CoreCompileInputs.cache
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/obj/Debug/netcoreapp2.0/challengeThreeTL.AssemblyInfoInputs.cache
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/obj/Debug/netcoreapp2.0/challengeThreeTL.AssemblyInfo.cs
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/obj/Debug/netcoreapp2.0/challengeThreeTL.dll
+/Users/miguelrosas/Projects/challengeThreeTL/challengeThreeTL/obj/Debug/netcoreapp2.0/challengeThreeTL.pdb

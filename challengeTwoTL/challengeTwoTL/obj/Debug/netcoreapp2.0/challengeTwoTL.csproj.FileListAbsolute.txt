@@ -1,0 +1,11 @@
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/bin/Debug/netcoreapp2.0/challengeTwoTL.deps.json
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/bin/Debug/netcoreapp2.0/challengeTwoTL.runtimeconfig.json
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/bin/Debug/netcoreapp2.0/challengeTwoTL.runtimeconfig.dev.json
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/bin/Debug/netcoreapp2.0/challengeTwoTL.dll
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/bin/Debug/netcoreapp2.0/challengeTwoTL.pdb
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/obj/Debug/netcoreapp2.0/challengeTwoTL.csprojResolveAssemblyReference.cache
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/obj/Debug/netcoreapp2.0/challengeTwoTL.csproj.CoreCompileInputs.cache
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/obj/Debug/netcoreapp2.0/challengeTwoTL.AssemblyInfoInputs.cache
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/obj/Debug/netcoreapp2.0/challengeTwoTL.AssemblyInfo.cs
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/obj/Debug/netcoreapp2.0/challengeTwoTL.dll
+/Users/miguelrosas/Projects/challengeTwoTL/challengeTwoTL/obj/Debug/netcoreapp2.0/challengeTwoTL.pdb

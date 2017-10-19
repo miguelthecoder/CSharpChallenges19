@@ -1,0 +1,11 @@
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/bin/Debug/netcoreapp2.0/ChallengeFourTL.deps.json
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/bin/Debug/netcoreapp2.0/ChallengeFourTL.runtimeconfig.json
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/bin/Debug/netcoreapp2.0/ChallengeFourTL.runtimeconfig.dev.json
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/bin/Debug/netcoreapp2.0/ChallengeFourTL.dll
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/bin/Debug/netcoreapp2.0/ChallengeFourTL.pdb
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/obj/Debug/netcoreapp2.0/ChallengeFourTL.csprojResolveAssemblyReference.cache
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/obj/Debug/netcoreapp2.0/ChallengeFourTL.csproj.CoreCompileInputs.cache
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/obj/Debug/netcoreapp2.0/ChallengeFourTL.AssemblyInfoInputs.cache
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/obj/Debug/netcoreapp2.0/ChallengeFourTL.AssemblyInfo.cs
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/obj/Debug/netcoreapp2.0/ChallengeFourTL.dll
+/Users/miguelrosas/Projects/ChallengeFourTL/ChallengeFourTL/obj/Debug/netcoreapp2.0/ChallengeFourTL.pdb
